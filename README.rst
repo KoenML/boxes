@@ -1,3 +1,10 @@
+ABOUT THIS SPECIFIC FORK
+==============
+This is a fork I made of the boxes.py API
+
+it includes a new box in the boxes category: Eurorack skiff. It's a 3U height Eurorack format case, width adjustable depth, widht in HP and rail included. I'm planning on including more case designs in the future, althought now I'm still debugging the rail components.
+
+
 About Boxes.py
 ==============
 
